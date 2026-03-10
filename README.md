@@ -30,3 +30,12 @@ Preparing for **Google Play closed testing**.
 • Gameplay tuning and difficulty balancing  
 • Visual theme unlock system  
 • Sound and feedback improvements  
+## Development Approach
+
+This project was created using **AI-assisted development workflows** and the **Base44 no-code platform**.
+
+The development process involved:
+
+• Prompt engineering for gameplay logic  
+• Iterative prototyping and testing  
+• Refining AI-generated systems to improve gameplay behavior

@@ -43,4 +43,5 @@ The development process involved:
 ## Playtesting
 
 Currently preparing for Google Play closed testing.
-A playable version will be available soon.
+Early prototype here : 
+https://tap-stack-game.base44.app

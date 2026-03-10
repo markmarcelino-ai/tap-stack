@@ -39,3 +39,8 @@ The development process involved:
 • Prompt engineering for gameplay logic  
 • Iterative prototyping and testing  
 • Refining AI-generated systems to improve gameplay behavior
+
+## Playtesting
+
+Currently preparing for Google Play closed testing.
+A playable version will be available soon.
